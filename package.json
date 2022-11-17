@@ -1,0 +1,17 @@
+{
+  "name": "katanama_announcement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "node-notifier": "^10.0.1",
+    "open": "^8.4.0",
+    "puppeteer": "^19.2.2"
+  }
+}

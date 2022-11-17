@@ -1,0 +1,2 @@
+node background.js
+pause
